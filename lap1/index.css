@@ -1,0 +1,41 @@
+img {
+    width:500px ;
+    height: 200px;
+    
+}
+.img{
+    text-align: center;
+}
+body {
+    font-family: 'Kanit', sans-serif;
+}
+.heading{
+text-align: center;
+    color: orangered;
+}
+ul {
+    
+    list-style: none;
+    
+    color: blue;
+
+}
+.menu{
+   justify-content: center;
+    display: flex;
+    gap: 20px;
+    font-size: 32px;
+    font-weight: 500;
+}
+a:link{
+    text-decoration: none;
+  
+}
+a:hover{
+    text-decoration: underline;
+    color:red;
+}
+a:active{
+    color: green;
+}
+
